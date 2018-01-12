@@ -114,7 +114,7 @@ The student, on their own, is able to:
   
   
   
-  # Final exam requirements
+# Final exam requirements
 
 
 ## Skills
