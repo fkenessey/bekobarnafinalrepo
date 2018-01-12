@@ -19,10 +19,10 @@ The student, on their own, is able to:
  -  Create variables and methods on a given specification
  -  Use conditions and loops:
      -  [Filtering](https://github.com/greenfox-academy/bekobarna/blob/master/week-02/day-01/src/OddEven.java)
-     -  Finding elements or index
-     -  Generating lists
-     -  Checking mutiple values and counting
-     -  Maping values
+     -  [Finding elements or index](https://github.com/greenfox-academy/bekobarna/blob/master/week-02/day-02/src/SumElements.java)
+     -  [Generating lists](https://github.com/greenfox-academy/bekobarna/blob/master/week-02/day-03/src/Candyshop.java)
+     -  [Checking mutiple values and counting](https://github.com/greenfox-academy/bekobarna/blob/master/week-02/day-03/src/Calculator.java)
+     -  [Maping values](https://github.com/bekobarna/pallida-basic-retake-exam/blob/master/countchars/CountChars.java)
  -  Use object orientation:
      -  Create and inherit classes including fields and methods on a given specification
      -  Understanding the difference between classes and objects
@@ -32,6 +32,7 @@ The student, on their own, is able to:
  -  Determine the output of expressions
  -  Explain their own code
  -  Write unit tests for functions and methods
+
 
 
 # Backend Orientation Exam Competencies
