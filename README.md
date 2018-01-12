@@ -21,13 +21,13 @@ The student, on their own, is able to:
      -  [Filtering](https://github.com/greenfox-academy/bekobarna/blob/master/week-02/day-01/src/OddEven.java)
      -  [Finding elements or index](https://github.com/greenfox-academy/bekobarna/blob/master/week-02/day-02/src/SumElements.java)
      -  [Generating lists](https://github.com/greenfox-academy/bekobarna/blob/master/week-02/day-03/src/Candyshop.java)
-     -  [Checking mutiple values and counting](https://github.com/greenfox-academy/bekobarna/blob/master/week-02/day-03/src/Calculator.java)
+     -  [Checking multiple values and counting](https://github.com/greenfox-academy/bekobarna/blob/master/week-02/day-03/src/Calculator.java)
      -  [Maping values](https://github.com/bekobarna/pallida-basic-retake-exam/blob/master/countchars/CountChars.java)
  -  Use object orientation:
-     -  Create and inherit classes including fields and methods on a given specification
+     -  [Create and inherit classes including fields and methods on a given specification](https://github.com/greenfox-academy/bekobarna/blob/master/week-04/day-01/src/BlogPost.java)
      -  Understanding the difference between classes and objects
      -  Instantiating and using objects
-     -  Understanding "this" keyword
+     -  [Understanding "this" keyword](https://github.com/greenfox-academy/bekobarna/blob/master/week-04/day-01/src/Animal.java)
  -  Handle errors and exceptions
  -  Determine the output of expressions
  -  Explain their own code
