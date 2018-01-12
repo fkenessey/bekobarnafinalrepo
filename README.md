@@ -31,7 +31,7 @@ The student, on their own, is able to:
  -  Handle errors and exceptions
  -  Determine the output of expressions
  -  Explain their own code
- -  Write unit tests for functions and methods
+ -  [Write unit tests](https://github.com/greenfox-academy/bekobarna/blob/master/week-04/day-03/test/AnagramTest.java) [for functions and methods](https://github.com/greenfox-academy/bekobarna/blob/master/week-04/day-03/src/Anagram.java)
 
 
 
