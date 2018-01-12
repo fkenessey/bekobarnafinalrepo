@@ -37,17 +37,17 @@ The student, on their own, is able to:
 
 # Backend Orientation Exam Competencies
 
-## Interfaces and abstract classes
+## [Interfaces and abstract classes](https://github.com/greenfox-academy/bekobarna/tree/master/week-06/day-02/src/main/java/music)
 
-[- usage of interfaces and abstract classes
+- usage of interfaces and abstract classes
 - understanding the difference between interfaces and abstract classes
-- understand when to use interface and when to use super class](https://github.com/greenfox-academy/bekobarna/tree/master/week-06/day-02/src/main/java/music)
+- understand when to use interface and when to use super class
 
-## Queries
+## [Queries](https://github.com/bekobarna/pallida-orientation-exam/blob/master/src/main/java/com/greenfox/orientationexam/repository/LicensePlateRepository.java)
 
-[- usage of language integrated queries e.g. LINQ/StreamApi
+- usage of language integrated queries e.g. LINQ/StreamApi
 - understanding the syntax
-- able to write simple custom queries](https://github.com/bekobarna/pallida-orientation-exam/blob/master/src/main/java/com/greenfox/orientationexam/repository/LicensePlateRepository.java)
+- able to write simple custom queries
 
 ## Build tool
 
