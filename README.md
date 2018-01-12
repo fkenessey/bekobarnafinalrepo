@@ -60,9 +60,9 @@ The student, on their own, is able to:
 - able to add and use libraries
 - find documentation and usage examples
 
-## Backend Framework
+## [Backend Framework](https://github.com/greenfox-academy/bekobarna/tree/master/week-08/day-02/todomysql)
 
-[- creating a Web Application with the given backend framework e.g. Spring/ASP.Net Core
+- creating a Web Application with the given backend framework e.g. Spring/ASP.Net Core
 - understanding the used components
 - find documentation and usage examples
 - understanding the framework and the application as web backend
@@ -71,11 +71,11 @@ The student, on their own, is able to:
 - able to use the framework's special Dependency Injection system
 - usage of the framework's IoC container
 - able to alter basic configurations
-- understanding the flow of HTTP](https://github.com/greenfox-academy/bekobarna/tree/master/week-08/day-02/todomysql)
+- understanding the flow of HTTP
 
-## Data persistance
+## [Data persistance](https://github.com/greenfox-academy/bekobarna/tree/master/week-08/day-02/todomysql)
 
-[- understanding and usage of basic SQL commands
+- understanding and usage of basic SQL commands
   - `select`, `insert`, `update`, `delete`
 - connecting database to backend application
   - database framework configuration
@@ -84,8 +84,8 @@ The student, on their own, is able to:
 - connection between:
   - tables and classes
   - records and objects
-  - columns and fields/properties](https://github.com/greenfox-academy/bekobarna/tree/master/week-08/day-02/todomysql)
-
+  - columns and fields/properties
+  
 ## Web backend
 
 - domain
@@ -99,18 +99,18 @@ The student, on their own, is able to:
 - body
 - templates
 
-### REST Web backend
+### [REST Web backend](https://github.com/greenfox-academy/bekobarna-p2pchatapp)
 
-[- understand what is an API and can use it
+- understand what is an API and can use it
 - use JSON objects
 - understand the concept of serialization
-- able to use Postman](https://github.com/greenfox-academy/bekobarna-p2pchatapp)
+- able to use Postman
 
-## Endpoint tests
+## [Endpoint tests](https://github.com/greenfox-academy/bekobarna/tree/master/week-09/day-03)
 
-[- able to make difference between unit test and integration test
+- able to make difference between unit test and integration test
 - create endpoint test
-  - with the help of a mock server](https://github.com/greenfox-academy/bekobarna/tree/master/week-09/day-03)
+  - with the help of a mock server
   
   
   
