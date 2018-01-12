@@ -18,7 +18,7 @@ The student, on their own, is able to:
  -  Follow indentation and coding styleguides in their code
  -  Create variables and methods on a given specification
  -  Use conditions and loops:
-     -  Filtering
+     -  [Filtering](https://github.com/greenfox-academy/bekobarna/blob/master/week-02/day-01/src/OddEven.java)
      -  Finding elements or index
      -  Generating lists
      -  Checking mutiple values and counting
@@ -115,7 +115,7 @@ The student, on their own, is able to:
   
   # Final exam requirements
 
-
+it 
 ## Skills
 
 ### Common
