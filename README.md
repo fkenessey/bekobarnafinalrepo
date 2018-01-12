@@ -28,10 +28,10 @@ The student, on their own, is able to:
      -  Understanding the difference between classes and objects
      -  Instantiating and using objects
      -  [Understanding "this" keyword](https://github.com/greenfox-academy/bekobarna/blob/master/week-04/day-01/src/Animal.java)
- -  Handle errors and exceptions
+ -  [Handle errors and exceptions](https://github.com/bekobarna/pallida-basic-retake-exam/blob/master/countchars/CountChars.java)
  -  Determine the output of expressions
  -  Explain their own code
- -  [Write unit tests](https://github.com/greenfox-academy/bekobarna/blob/master/week-04/day-03/test/AnagramTest.java) [for functions and methods](https://github.com/greenfox-academy/bekobarna/blob/master/week-04/day-03/src/Anagram.java)
+ -  [Write unit tests](https://github.com/greenfox-academy/bekobarna/blob/master/week-04/day-03/test/FibonacciTest.java) [for functions and methods](https://github.com/greenfox-academy/bekobarna/blob/master/week-04/day-03/src/Fibonacci.java)
 
 
 
@@ -39,15 +39,15 @@ The student, on their own, is able to:
 
 ## Interfaces and abstract classes
 
-- usage of interfaces and abstract classes
+[- usage of interfaces and abstract classes
 - understanding the difference between interfaces and abstract classes
-- understand when to use interface and when to use super class
+- understand when to use interface and when to use super class](https://github.com/greenfox-academy/bekobarna/tree/master/week-06/day-02/src/main/java/music)
 
 ## Queries
 
-- usage of language integrated quaries e.g. LINQ/StreamApi
+[- usage of language integrated queries e.g. LINQ/StreamApi
 - understanding the syntax
-- able to write simple custom quaries
+- able to write simple custom queries](https://github.com/bekobarna/pallida-orientation-exam/blob/master/src/main/java/com/greenfox/orientationexam/repository/LicensePlateRepository.java)
 
 ## Build tool
 
@@ -62,7 +62,7 @@ The student, on their own, is able to:
 
 ## Backend Framework
 
-- creating a Web Application with the given backend framework e.g. Spring/ASP.Net Core
+[- creating a Web Application with the given backend framework e.g. Spring/ASP.Net Core
 - understanding the used components
 - find documentation and usage examples
 - understanding the framework and the application as web backend
@@ -71,11 +71,11 @@ The student, on their own, is able to:
 - able to use the framework's special Dependency Injection system
 - usage of the framework's IoC container
 - able to alter basic configurations
-- understanding the flow of HTTP
+- understanding the flow of HTTP](https://github.com/greenfox-academy/bekobarna/tree/master/week-08/day-02/todomysql)
 
 ## Data persistance
 
-- understanding and usage of basic SQL commands
+[- understanding and usage of basic SQL commands
   - `select`, `insert`, `update`, `delete`
 - connecting database to backend application
   - database framework configuration
@@ -84,7 +84,7 @@ The student, on their own, is able to:
 - connection between:
   - tables and classes
   - records and objects
-  - columns and fields/properties
+  - columns and fields/properties](https://github.com/greenfox-academy/bekobarna/tree/master/week-08/day-02/todomysql)
 
 ## Web backend
 
@@ -101,22 +101,22 @@ The student, on their own, is able to:
 
 ### REST Web backend
 
-- understand what is an API and can use it
+[- understand what is an API and can use it
 - use JSON objects
 - understand the concept of serialization
-- able to use Postman
+- able to use Postman](https://github.com/greenfox-academy/bekobarna-p2pchatapp)
 
 ## Endpoint tests
 
-- able to make difference between unit test and integration test
+[- able to make difference between unit test and integration test
 - create endpoint test
-  - with the help of a mock server
+  - with the help of a mock server](https://github.com/greenfox-academy/bekobarna/tree/master/week-09/day-03)
   
   
   
   # Final exam requirements
 
-it 
+
 ## Skills
 
 ### Common
