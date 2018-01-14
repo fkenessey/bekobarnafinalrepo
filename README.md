@@ -26,10 +26,10 @@ The student, on their own, is able to:
  -  Use object orientation:
      -  [Create and inherit classes including fields and methods on a given specification](https://github.com/bekobarna/pallida-basic-retake-exam/tree/master/pokebag)
      -  Understanding the difference between classes and objects
-     -  [Instantiating and using objects]()
+     -  Instantiating and using objects
      -  [Understanding "this" keyword](https://github.com/bekobarna/pallida-basic-retake-exam/tree/master/pokebag)
  -  [Handle errors and exceptions](https://github.com/bekobarna/pallida-basic-retake-exam/blob/master/countchars/CountChars.java)
- -  Determine the output of expressions
+ -  Determine the output of expressionsgit 
  -  Explain their own code
  -  [Write unit tests](https://github.com/greenfox-academy/bekobarna/blob/master/week-04/day-03/test/FibonacciTest.java) [for functions and methods](https://github.com/greenfox-academy/bekobarna/blob/master/week-04/day-03/src/Fibonacci.java)
 
