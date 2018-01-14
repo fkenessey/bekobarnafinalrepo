@@ -151,22 +151,5 @@ The student, on their own, is able to:
  -  Database
      - Using complex data structures
      - Understanding and using table connections
-     - Understanding migration 
-
-### Fullstack
-
- -  Use async structures:
-     -  Writing functions that are taking and calling callbacks
-     -  Determining the calling order in nested callbacks
- -  Understanding and using rich web application framework:
-     -  Components, configuration, dependencies, extensions
-     -  Handle Authentication
-
-### Mobile
-
- -  Use async structures:
-     -  Writing functions that are taking and calling callbacks
- -  Understanding and using mobile framework:
-     -  Components, configuration, dependencies, extensions
- -  Designing multiple screens
- -  Handling authorized communication with backend
+     - Understanding migration
+     
